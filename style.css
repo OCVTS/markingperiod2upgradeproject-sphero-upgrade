@@ -1,5 +1,11 @@
+body {
+    text-align: center;
+    background-color: dodgerblue;
+}
 .sectionDiv {
     max-width: 70%;
     margin: auto;
-    text-align: center;
+}
+#images img {
+    max-height: 5000px;
 }
